@@ -55,7 +55,7 @@ function handleTweetBtnClick(){
 
     if(tweetInput.value){
         tweetsData.unshift({
-            handle: `@Scrimba`,
+            handle: `@1TanesinAlim`,
             profilePic: `https://raw.githubusercontent.com/ZGGunduz/Twitter-Clone/main/images/alim.jpeg`,
             likes: 0,
             retweets: 0,
